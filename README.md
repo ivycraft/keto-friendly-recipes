@@ -6,12 +6,12 @@ prep time: 30 min, cook time: 30  min, Total time :45 min
 
 INGREDIENTS:
 MEATBALLS:
-1 lb. ground turkey or chicken
-1 large shredded carrot, about 1/2 cup, squeeze moisture out
-2 tbsp. fresh cilantro chopped
-1 red chili chopped
-1/4 cup green onion chopped
-2 tbsp. grated ginger
+ 1 lb. ground turkey or chicken
+ 1 large shredded carrot, about 1/2 cup, squeeze moisture out
+ 2 tbsp. fresh cilantro chopped
+ 1 red chili chopped
+ 1/4 cup green onion chopped
+ 2 tbsp. grated ginger
 2 tbsp. soy sauce
 1/4 tsp. salt
 1/2 tsp. pepper
