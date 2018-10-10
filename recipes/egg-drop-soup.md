@@ -2,6 +2,8 @@
 
 # THAI MEATBALL AND EGGDROP SOUP
 
+![alt text](../images/eggdrop-soup.jpg)
+
 prep time: 30 min, cook time: 30  min, Total time :45 min
 
 INGREDIENTS:
