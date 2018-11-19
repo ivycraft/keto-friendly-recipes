@@ -35,7 +35,7 @@ SOUP:
 INSTRUCTIONS:
 MEATBALL PREP:
 1. Preheat oven to 400 degrees.
-2. in a bowl combine all meatball ingredients. Mix well and form into balls. If the mixture is a bit wet and sticks, wet your hands with water and then roll the balls.
+2. In a bowl combine all meatball ingredients. Mix well and form into balls. If the mixture is a bit wet and sticks, wet your hands with water and then roll the balls.
 3. Once cooked remove from heat and set aside until you are ready to add them to the soup.
 
 SOUP PREP:
