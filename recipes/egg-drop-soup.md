@@ -2,7 +2,7 @@
 
 # THAI MEATBALL AND EGGDROP SOUP
 
-![alt text](../images/eggdrop-soup.jpg)
+![alt text](https://github.com/ivycraft/keto-friendly-recipes/raw/master/images/thai-meatball-and-eggdrop-soup.jpg "Thai Meatball and Eggdrop Soup")
 
 prep time: 30 min, cook time: 30  min, Total time :45 min
 
