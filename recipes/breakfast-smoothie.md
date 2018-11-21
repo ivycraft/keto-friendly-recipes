@@ -2,7 +2,7 @@
 
 # BREAKFAST SMOOTHIE
 
-#[alt text](https://github.com/ivycraft/keto-friendly-recipes/raw/master/images/breakfast-smoothie.jpg "Breakfast Smoothie")
+![alt text](https://github.com/ivycraft/keto-friendly-recipes/raw/master/images/breakfast-smoothie.jpg "Breakfast Smoothie")
 
 INGREDIENTS:
  * 1 banana
