@@ -2,6 +2,8 @@
 
 # BREAKFAST SMOOTHIE
 
+#[alt text](https://github.com/ivycraft/keto-friendly-recipes/raw/master/images/breakfast-smoothie.jpg "Breakfast Smoothie")
+
 INGREDIENTS:
  * 1 banana
  * 1 3/4 cup water or almond milk
