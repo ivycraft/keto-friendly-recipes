@@ -2,6 +2,8 @@
 
 # TURKEY CHILI
 
+![alt text](https://github.com/ivycraft/keto-friendly-recipes/raw/master/images/turkey-chili.jpg "Turkey Chili")
+
 prep time: 20 min, cook time: 2 hr. 20 min., total time: 2 hr. 40 min.
 
 INGREDIENTS:
