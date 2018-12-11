@@ -17,5 +17,5 @@ INGREDIENTS:
   * salt and pepper to taste
  
 INSTRUCTIONS:
-1. Whisk together cider vinegar, mayo, salt and pepper in a small bowl and set aside.
+1. Whisk together cider vinegar, mayo, salt, and pepper in a small bowl and set aside.
 2. In a large bowl, combine broccoli, onion, cranberries, sunflower seeds, and bacon. Pour the prepared dressing over the top and mix well. Refridgerate an hour before serving.
