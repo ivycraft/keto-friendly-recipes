@@ -5,4 +5,4 @@
   * ### [FRIED BRUSSELS SPROUTS](recipes/fried-brussels-sprouts.md "Fried Brussels Sprouts")
   * ### [FRIED TURKEY](recipes/fried-turkey.md "Fried Turkey")
   * ### [TURKEY CHILI](recipes/turkey-chili.md "Fried Turkey")
-  * ### BROCCOLI SALAD
+  * ### [BROCCOLI SALAD](recipes/broccoli-salad.md "Broccoli Salad")
